@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.SJ1vkXDQIM9_w8MrDwLhfwHaFj?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+.form-label{
+    font-weight: bold;
+}
